@@ -1,4 +1,4 @@
-## Amilton Moreira
+<img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=6959CD&height=180&section=header&text=Amilton%20Moreira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
   <a href="https://github.com/AmiltonMn">
