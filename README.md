@@ -15,8 +15,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
 
 # Ternaria #
-<a href="https://github.com/OsvaldoComCH/Ternaria/releases/tag/v1.0.0">
+<a href="https://github.com/AmiltonMn/Ternaria/releases/tag/v1.0.0">
     <div style="display: flex;">
-      <img src="Tetris.png">
+      <img src="Ternaria.png">
     </div>
 </a>
