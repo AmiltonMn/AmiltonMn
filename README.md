@@ -9,8 +9,9 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
 </div>
 
+# Logos e links de redes #
 <div align="center" justify-content="space-around">
-  <a href="https://www.instagram.com/amilton_mn?igsh=MTV3cDV3bnExdXg1Zw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/amilton_mn?igsh=MTV3cDV3bnExdXg1Zw==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amilton-moreira-neto" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
 </div>
 
