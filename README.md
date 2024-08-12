@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" justify-content="space-around">
-  <a href="https://www.instagram.com/amilton_mn?igsh=MTV3cDV3bnExdXg1Zw==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/amilton_mn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amilton-moreira-neto" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
 </div>
 
