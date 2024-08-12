@@ -11,7 +11,7 @@
 
 <div align="center" justify-content="space-around">
   <a href="https://www.instagram.com/amilton_mn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
+  <a href="www.linkedin.com/in/amilton-moreira-neto-b94271280" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
