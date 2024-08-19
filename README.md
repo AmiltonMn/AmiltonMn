@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Amilton+Moreira+Neto;I'm+20+Years+Old;I'm+From+Curitiba,+PR;Welcome!:%29)](https://git.io/typing-svg)
 
 <div align="center">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
+    <img loading="lazy" width="450em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
+    <img loading="lazy" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
   <a href="https://git.io/streak-stats">
     <img width="760em" src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=FFFFFF00" alt="GitHub Streak"/>
   </a>
