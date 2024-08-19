@@ -5,8 +5,11 @@
 
 <div align="center">
   <a href="https://github.com/AmiltonMn">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=EB545400" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center" justify-content="space-around">
