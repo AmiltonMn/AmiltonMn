@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/AmiltonMn">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=dark&bg_color=EB545400"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=EB545400"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=dark&bg_color=FFFFFF00"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=FFFFFF00"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=EB545400" alt="GitHub Streak"/>
+    <img width="760em" src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=FFFFFF00" alt="GitHub Streak"/>
   </a>
 </div>
 
