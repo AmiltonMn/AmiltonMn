@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Amilton+Moreira+Neto;I'm+20+Years+Old;I'm+From+Curitiba,+PR;Welcome!:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/AmiltonMn">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=dark&bg_color=FFFFFF00"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=FFFFFF00"/>
   <a href="https://git.io/streak-stats">
