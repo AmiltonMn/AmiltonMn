@@ -4,9 +4,7 @@
 <div align="center">
     <img loading="lazy" width="450em" src="https://github-readme-stats.vercel.app/api?username=AmiltonMn&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
     <img loading="lazy" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=vision-friendly-dark&bg_color=FFFFFF00"/>
-  <a href="https://git.io/streak-stats">
-    <img width="760em" src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=FFFFFF00" alt="GitHub Streak"/>
-  </a>
+    <img width="760em" src="https://streak-stats.demolab.com?user=AmiltonMn&theme=dark&hide_border=true&locale=pt_BR&mode=weekly&background=FFFFFF00" alt="GitHub Streak"/>
 </div>
 
 <br>
